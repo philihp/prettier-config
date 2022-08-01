@@ -1,0 +1,11 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"OK\""
+  },
+  "author": "Philihp Busby <philihp@gmail.com>",
+  "license": "MIT",
+  "description": "Preferred prettier config"
+}
